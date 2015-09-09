@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	title="Creatures"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbPosition="LEFT"
+	galleryStyle="MODERN"
+	thumbColumns="3"
+	thumbRows="4"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath="images/"
+	thumbPath="thumbs/"
+	useFlickr="false"
+	languageCode=""
+	languageList=""
+	resizeOnImport="true"
+	cropToFit="false"
+
+>
+  <image imageURL="images/dragonfly.jpg"
+	thumbURL="thumbs/dragonfly.jpg"
+	linkURL="images/dragonfly.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[dragonfly.jpg]]></caption>
+  </image>
+  <image imageURL="images/frog.jpg"
+	thumbURL="thumbs/frog.jpg"
+	linkURL="images/frog.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[frog.jpg]]></caption>
+  </image>
+  <image imageURL="images/mayfly.jpg"
+	thumbURL="thumbs/mayfly.jpg"
+	linkURL="images/mayfly.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[mayfly.jpg]]></caption>
+  </image>
+  <image imageURL="images/salamander.jpg"
+	thumbURL="thumbs/salamander.jpg"
+	linkURL="images/salamander.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[salamander.jpg]]></caption>
+  </image>
+  <image imageURL="images/salamander_eyes.jpg"
+	thumbURL="thumbs/salamander_eyes.jpg"
+	linkURL="images/salamander_eyes.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[salamander_eyes.jpg]]></caption>
+  </image>
+  <image imageURL="images/sphinx_moth.jpg"
+	thumbURL="thumbs/sphinx_moth.jpg"
+	linkURL="images/sphinx_moth.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[sphinx_moth.jpg]]></caption>
+  </image>
+  <image imageURL="images/Phrynosoma.jpg"
+	thumbURL="thumbs/Phrynosoma.jpg"
+	linkURL="images/Phrynosoma.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/salmonfly2.jpg"
+	thumbURL="thumbs/salmonfly2.jpg"
+	linkURL="images/salmonfly2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

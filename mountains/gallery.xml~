@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	title="Mountains"
+	textColor="FFFFFF"
+	frameColor="474747"
+	thumbPosition="LEFT"
+	galleryStyle="MODERN"
+	thumbColumns="3"
+	thumbRows="4"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath="images/"
+	thumbPath="thumbs/"
+	useFlickr="false"
+	languageCode=""
+	languageList=""
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundTransparent="false"
+	useFlash="true"
+	backgroundColor="999999"
+
+>
+  <image imageURL="images/4th_recess_lake.jpg"
+	thumbURL="thumbs/4th_recess_lake.jpg"
+	linkURL="images/4th_recess_lake.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[4th Recess Lake, John Muir Wilderness, CA]]></caption>
+  </image>
+  <image imageURL="images/adams.jpg"
+	thumbURL="thumbs/adams.jpg"
+	linkURL="images/adams.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mt. Adams from Mt. Rainer]]></caption>
+  </image>
+  <image imageURL="images/alpine glow.jpg"
+	thumbURL="thumbs/alpine glow.jpg"
+	linkURL="images/alpine glow.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Alpine Glow. On Cerro San Lorenzo, Chile  ]]></caption>
+  </image>
+  <image imageURL="images/arkansas_river_valley.jpg"
+	thumbURL="thumbs/arkansas_river_valley.jpg"
+	linkURL="images/arkansas_river_valley.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Arkansas River Valley, near Mt. Erbus, CO]]></caption>
+  </image>
+  <image imageURL="images/cone_peak.jpg"
+	thumbURL="thumbs/cone_peak.jpg"
+	linkURL="images/cone_peak.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Cone Peak, Big Sur, CA ]]></caption>
+  </image>
+  <image imageURL="images/cows.jpg"
+	thumbURL="thumbs/cows.jpg"
+	linkURL="images/cows.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Obserdof, Germany]]></caption>
+  </image>
+  <image imageURL="images/david.jpg"
+	thumbURL="thumbs/david.jpg"
+	linkURL="images/david.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[David in Wind Rivers, WY]]></caption>
+  </image>
+  <image imageURL="images/enchanted_valley_2.jpg"
+	thumbURL="thumbs/enchanted_valley_2.jpg"
+	linkURL="images/enchanted_valley_2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Enchanted Valley, WA]]></caption>
+  </image>
+  <image imageURL="images/glacier_pk.jpg"
+	thumbURL="thumbs/glacier_pk.jpg"
+	linkURL="images/glacier_pk.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[glacier_pk.jpg]]></caption>
+  </image>
+  <image imageURL="images/glacier_snow.jpg"
+	thumbURL="thumbs/glacier_snow.jpg"
+	linkURL="images/glacier_snow.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[On Cerro San Lorenzo, Chile]]></caption>
+  </image>
+  <image imageURL="images/hidden_lake_rocks.jpg"
+	thumbURL="thumbs/hidden_lake_rocks.jpg"
+	linkURL="images/hidden_lake_rocks.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[View From Hidden Lake Lookout, WA]]></caption>
+  </image>
+  <image imageURL="images/ice.jpg"
+	thumbURL="thumbs/ice.jpg"
+	linkURL="images/ice.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Glacier, Chile]]></caption>
+  </image>
+  <image imageURL="images/johannson.jpg"
+	thumbURL="thumbs/johannson.jpg"
+	linkURL="images/johannson.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mt Johannson from Cascade Pass, WA ]]></caption>
+  </image>
+  <image imageURL="images/lanin.jpg"
+	thumbURL="thumbs/lanin.jpg"
+	linkURL="images/lanin.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Lanin, Chile]]></caption>
+  </image>
+  <image imageURL="images/Leconte.jpg"
+	thumbURL="thumbs/Leconte.jpg"
+	linkURL="images/Leconte.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[LeConte Canyon, CA]]></caption>
+  </image>
+  <image imageURL="images/moonscape.jpg"
+	thumbURL="thumbs/moonscape.jpg"
+	linkURL="images/moonscape.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[moonscape.jpg]]></caption>
+  </image>
+  <image imageURL="images/mountain.jpg"
+	thumbURL="thumbs/mountain.jpg"
+	linkURL="images/mountain.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Cerro San Lorenzo, Chile]]></caption>
+  </image>
+  <image imageURL="images/mountains.jpg"
+	thumbURL="thumbs/mountains.jpg"
+	linkURL="images/mountains.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Obersdorf, Germany]]></caption>
+  </image>
+  <image imageURL="images/mountain_light.jpg"
+	thumbURL="thumbs/mountain_light.jpg"
+	linkURL="images/mountain_light.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Sunrise, John Muir Wilderness, CA]]></caption>
+  </image>
+  <image imageURL="images/mtns.jpg"
+	thumbURL="thumbs/mtns.jpg"
+	linkURL="images/mtns.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[East Side of the SIerra, near Lone Pine, CA]]></caption>
+  </image>
+  <image imageURL="images/mt_hozemene.jpg"
+	thumbURL="thumbs/mt_hozemene.jpg"
+	linkURL="images/mt_hozemene.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mt Hozemene from Sourdough Peak, WA]]></caption>
+  </image>
+  <image imageURL="images/mt_lassen_09.jpg"
+	thumbURL="thumbs/mt_lassen_09.jpg"
+	linkURL="images/mt_lassen_09.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mt. Lassen, CA]]></caption>
+  </image>
+  <image imageURL="images/mt_olympus.jpg"
+	thumbURL="thumbs/mt_olympus.jpg"
+	linkURL="images/mt_olympus.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mt Olympus, WA]]></caption>
+  </image>
+  <image imageURL="images/near_golden_lake.jpg"
+	thumbURL="thumbs/near_golden_lake.jpg"
+	linkURL="images/near_golden_lake.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Near Golden Lake, John Muir Wilderness, CA]]></caption>
+  </image>
+  <image imageURL="images/pano.jpg"
+	thumbURL="thumbs/pano.jpg"
+	linkURL="images/pano.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Ansel Adams Wilderness, CA]]></caption>
+  </image>
+  <image imageURL="images/pano3.jpg"
+	thumbURL="thumbs/pano3.jpg"
+	linkURL="images/pano3.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Sunrise, Hidden Lake Lookout, WA]]></caption>
+  </image>
+  <image imageURL="images/royce_lakes.jpg"
+	thumbURL="thumbs/royce_lakes.jpg"
+	linkURL="images/royce_lakes.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Royce Lakes, CA]]></caption>
+  </image>
+  <image imageURL="images/san lorenzo sunset.jpg"
+	thumbURL="thumbs/san lorenzo sunset.jpg"
+	linkURL="images/san lorenzo sunset.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Cerro San Lorenzo sunset, Chile]]></caption>
+  </image>
+  <image imageURL="images/san lorenzo.jpg"
+	thumbURL="thumbs/san lorenzo.jpg"
+	linkURL="images/san lorenzo.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Cerro San Lorenzo, Chile]]></caption>
+  </image>
+  <image imageURL="images/shasta.jpg"
+	thumbURL="thumbs/shasta.jpg"
+	linkURL="images/shasta.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mt. Shasta, CA]]></caption>
+  </image>
+  <image imageURL="images/sunlight.jpg"
+	thumbURL="thumbs/sunlight.jpg"
+	linkURL="images/sunlight.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Sunlight over Chilean Peaks]]></caption>
+  </image>
+  <image imageURL="images/sunrise_hidden_lake.jpg"
+	thumbURL="thumbs/sunrise_hidden_lake.jpg"
+	linkURL="images/sunrise_hidden_lake.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Sunrise Hidden Lake, WA]]></caption>
+  </image>
+  <image imageURL="images/sunrise_pano_whit.jpg"
+	thumbURL="thumbs/sunrise_pano_whit.jpg"
+	linkURL="images/sunrise_pano_whit.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Sunrise near Mt. Whitney, CA]]></caption>
+  </image>
+  <image imageURL="images/sunset.jpg"
+	thumbURL="thumbs/sunset.jpg"
+	linkURL="images/sunset.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Sunset over glacier, Chile]]></caption>
+  </image>
+  <image imageURL="images/sunset_a.jpg"
+	thumbURL="thumbs/sunset_a.jpg"
+	linkURL="images/sunset_a.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Sunset in Wind Rivers, WY]]></caption>
+  </image>
+  <image imageURL="images/towards_trapper.jpg"
+	thumbURL="thumbs/towards_trapper.jpg"
+	linkURL="images/towards_trapper.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Looking towards Trapper Lake, WA]]></caption>
+  </image>
+  <image imageURL="images/tower.jpg"
+	thumbURL="thumbs/tower.jpg"
+	linkURL="images/tower.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Sierras, CA]]></caption>
+  </image>
+  <image imageURL="images/trailer.jpg"
+	thumbURL="thumbs/trailer.jpg"
+	linkURL="images/trailer.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mt. Whitney and trailer, CA]]></caption>
+  </image>
+  <image imageURL="images/twin_towers.jpg"
+	thumbURL="thumbs/twin_towers.jpg"
+	linkURL="images/twin_towers.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Twin Towers, Chile]]></caption>
+  </image>
+  <image imageURL="images/view.jpg"
+	thumbURL="thumbs/view.jpg"
+	linkURL="images/view.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mt. Whitney, CA]]></caption>
+  </image>
+  <image imageURL="images/whitney.jpg"
+	thumbURL="thumbs/whitney.jpg"
+	linkURL="images/whitney.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mt. Whitney, CA]]></caption>
+  </image>
+</simpleviewergallery>

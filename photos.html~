@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html;charset=ISO-8859-1" http-equiv="Content-Type">
+  <title>Jamie Tolan photos</title>
+</head>
+<body style="background-color: rgb(111, 111, 111); color: rgb(0, 0, 0);"
+ alink="#ee0000" link="#0000ee" vlink="#551a8b">
+<br>
+<br>
+<div style="text-align: center;">
+<span style="color: rgb(255, 235, 235);font-size:30pt;font-family:verdana">
+Jamie Tolan's Photo Page
+</span>
+<br>
+<span style="color: rgb(255, 255, 255);font-size:10pt;font-family:verdana">
+All picture copyrights by Jamie Tolan. Email me at jamie.tolan **
+gmail.com
+(** = @) for more information. <br></span>
+</div>
+
+
+<center>
+<table border="0" cellspacing="10" cellpadding="10">
+
+<tr>
+<td>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="mountains/index.html"><img src="mountains/images/lanin.jpg" width=300></a>
+<br>
+<div style="text-align: center;">
+<span style="color:rgb(255, 255, 255);font-family:helvetica;font-size:20pt">
+<a href="mountains/index.html" style="color: black">Mountains</a>
+ </td></tr></table>
+
+</td>
+<td>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="rivers/index.html"><img src="rivers/images/rio%20chimeuin.jpg" width=300></a>
+<br>
+<div style="text-align: center;">
+<span style="color:rgb(255, 255, 255);font-family:helvetica;font-size:20pt">
+<a href="rivers/index.html" style="color: black">Rivers</a>
+ </td></tr></table>
+</td></tr>
+
+<tr><td>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="plants/index.html"><img src="plants/images/poppy.jpg" width=300></a>
+<br>
+<div style="text-align: center;">
+<span style="color:rgb(255, 255, 255);font-family:helvetica;font-size:20pt">
+<a href="plants/index.html" style="color: black">Plants</a>
+ </td></tr></table>
+</td>
+
+<td>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="fungi/index.html"><img src="fungi/images/edulis.jpg" width=300></a>
+<br>
+<div style="text-align: center;">
+<span style="color:rgb(255, 255, 255);font-family:helvetica;font-size:20pt">
+<a href="mushrooms/index.html" style="color: black">Fungus</a>
+ </td></tr></table>
+</td>
+</tr>
+
+<tr><td>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="creatures/index.html"><img src="creatures/images/mayfly.jpg" width=300></a>
+<br>
+<div style="text-align: center;">
+<span style="color:rgb(255, 255, 255);font-family:helvetica;font-size:20pt">
+<a href="creatures/index.html" style="color: black">Creatures</a>
+ </td></tr></table>
+</td>
+
+<td>
+<table border="0" cellspacing="0" cellpadding="0"><tr><td>
+<a href="other/index.html"><img src="other/images/carmel_beach.jpg" width=300></a>
+<br>
+<div style="text-align: center;">
+<span style="color:rgb(255, 255, 255);font-family:helvetica;font-size:20pt">
+<a href="other/index.html" style="color: black">Other</a>
+ </td></tr></table>
+</td>
+
+</td>
+</tr>
+</table>
+</center>
+
+
+<p>
+
+<br>
+<br>
+</p>
+</body>
+</html>

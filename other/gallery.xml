@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	title="Other"
+	textColor="FFFFFF"
+	frameColor="474747"
+	thumbPosition="LEFT"
+	galleryStyle="MODERN"
+	thumbColumns="3"
+	thumbRows="4"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath="images/"
+	thumbPath="thumbs/"
+	useFlickr="false"
+	languageCode=""
+	languageList=""
+	resizeOnImport="true"
+	cropToFit="false"
+
+>
+  <image imageURL="images/amy.jpg"
+	thumbURL="thumbs/amy.jpg"
+	linkURL="images/amy.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[amy.jpg]]></caption>
+  </image>
+  <image imageURL="images/ba.jpg"
+	thumbURL="thumbs/ba.jpg"
+	linkURL="images/ba.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[ba.jpg]]></caption>
+  </image>
+  <image imageURL="images/beach.jpg"
+	thumbURL="thumbs/beach.jpg"
+	linkURL="images/beach.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[beach.jpg]]></caption>
+  </image>
+  <image imageURL="images/carmel_beach.jpg"
+	thumbURL="thumbs/carmel_beach.jpg"
+	linkURL="images/carmel_beach.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[carmel_beach.jpg]]></caption>
+  </image>
+  <image imageURL="images/chaiten.jpg"
+	thumbURL="thumbs/chaiten.jpg"
+	linkURL="images/chaiten.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[chaiten.jpg]]></caption>
+  </image>
+  <image imageURL="images/clouds_sky.jpg"
+	thumbURL="thumbs/clouds_sky.jpg"
+	linkURL="images/clouds_sky.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[clouds_sky.jpg]]></caption>
+  </image>
+  <image imageURL="images/daan_swim.jpg"
+	thumbURL="thumbs/daan_swim.jpg"
+	linkURL="images/daan_swim.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[daan_swim.jpg]]></caption>
+  </image>
+  <image imageURL="images/ethandinner.jpg"
+	thumbURL="thumbs/ethandinner.jpg"
+	linkURL="images/ethandinner.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[ethandinner.jpg]]></caption>
+  </image>
+  <image imageURL="images/fall_light.jpg"
+	thumbURL="thumbs/fall_light.jpg"
+	linkURL="images/fall_light.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[fall_light.jpg]]></caption>
+  </image>
+  <image imageURL="images/ice9.jpg"
+	thumbURL="thumbs/ice9.jpg"
+	linkURL="images/ice9.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[ice9.jpg]]></caption>
+  </image>
+  <image imageURL="images/ice_texture.jpg"
+	thumbURL="thumbs/ice_texture.jpg"
+	linkURL="images/ice_texture.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[ice_texture.jpg]]></caption>
+  </image>
+  <image imageURL="images/inlet.jpg"
+	thumbURL="thumbs/inlet.jpg"
+	linkURL="images/inlet.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[inlet.jpg]]></caption>
+  </image>
+  <image imageURL="images/munich.jpg"
+	thumbURL="thumbs/munich.jpg"
+	linkURL="images/munich.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[munich.jpg]]></caption>
+  </image>
+  <image imageURL="images/olmstead_pt.jpg"
+	thumbURL="thumbs/olmstead_pt.jpg"
+	linkURL="images/olmstead_pt.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[olmstead_pt.jpg]]></caption>
+  </image>
+  <image imageURL="images/puyhayuapi.jpg"
+	thumbURL="thumbs/puyhayuapi.jpg"
+	linkURL="images/puyhayuapi.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[puyhayuapi.jpg]]></caption>
+  </image>
+  <image imageURL="images/river beach.jpg"
+	thumbURL="thumbs/river beach.jpg"
+	linkURL="images/river beach.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[river beach.jpg]]></caption>
+  </image>
+  <image imageURL="images/snow_flat.jpg"
+	thumbURL="thumbs/snow_flat.jpg"
+	linkURL="images/snow_flat.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[snow_flat.jpg]]></caption>
+  </image>
+  <image imageURL="images/stove.jpg"
+	thumbURL="thumbs/stove.jpg"
+	linkURL="images/stove.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[stove.jpg]]></caption>
+  </image>
+  <image imageURL="images/sunset2.jpg"
+	thumbURL="thumbs/sunset2.jpg"
+	linkURL="images/sunset2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[sunset2.jpg]]></caption>
+  </image>
+  <image imageURL="images/tent.jpg"
+	thumbURL="thumbs/tent.jpg"
+	linkURL="images/tent.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[tent.jpg]]></caption>
+  </image>
+  <image imageURL="images/IMG_1856.jpg"
+	thumbURL="thumbs/IMG_1856.jpg"
+	linkURL="images/IMG_1856.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1866.jpg"
+	thumbURL="thumbs/IMG_1866.jpg"
+	linkURL="images/IMG_1866.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	title="Rivers"
+	textColor="FFFFFF"
+	frameColor="474747"
+	thumbPosition="LEFT"
+	galleryStyle="MODERN"
+	thumbColumns="3"
+	thumbRows="4"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath="images/"
+	thumbPath="thumbs/"
+	useFlickr="false"
+	languageCode=""
+	languageList=""
+	resizeOnImport="true"
+	cropToFit="false"
+
+>
+  <image imageURL="images/boca.jpg"
+	thumbURL="thumbs/boca.jpg"
+	linkURL="images/boca.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[boca.jpg]]></caption>
+  </image>
+  <image imageURL="images/carmel_river.jpg"
+	thumbURL="thumbs/carmel_river.jpg"
+	linkURL="images/carmel_river.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[carmel_river.jpg]]></caption>
+  </image>
+  <image imageURL="images/enchanted_valley_3.jpg"
+	thumbURL="thumbs/enchanted_valley_3.jpg"
+	linkURL="images/enchanted_valley_3.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[enchanted_valley_3.jpg]]></caption>
+  </image>
+  <image imageURL="images/evolution_steps.jpg"
+	thumbURL="thumbs/evolution_steps.jpg"
+	linkURL="images/evolution_steps.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[evolution_steps.jpg]]></caption>
+  </image>
+  <image imageURL="images/fin_dome.jpg"
+	thumbURL="thumbs/fin_dome.jpg"
+	linkURL="images/fin_dome.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[fin_dome.jpg]]></caption>
+  </image>
+  <image imageURL="images/mono_creek.jpg"
+	thumbURL="thumbs/mono_creek.jpg"
+	linkURL="images/mono_creek.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[mono_creek.jpg]]></caption>
+  </image>
+  <image imageURL="images/rio chimeuin.jpg"
+	thumbURL="thumbs/rio chimeuin.jpg"
+	linkURL="images/rio chimeuin.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[rio chimeuin.jpg]]></caption>
+  </image>
+  <image imageURL="images/river.jpg"
+	thumbURL="thumbs/river.jpg"
+	linkURL="images/river.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[river.jpg]]></caption>
+  </image>
+  <image imageURL="images/warner_snow.jpg"
+	thumbURL="thumbs/warner_snow.jpg"
+	linkURL="images/warner_snow.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[warner_snow.jpg]]></caption>
+  </image>
+  <image imageURL="images/havasu_falls.jpg"
+	thumbURL="thumbs/havasu_falls.jpg"
+	linkURL="images/havasu_falls.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/upper_havasu.jpg"
+	thumbURL="thumbs/upper_havasu.jpg"
+	linkURL="images/upper_havasu.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4030.jpg"
+	thumbURL="thumbs/IMG_4030.jpg"
+	linkURL="images/IMG_4030.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/burney_falls.jpg"
+	thumbURL="thumbs/burney_falls.jpg"
+	linkURL="images/burney_falls.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/E_bear_creek2.jpg"
+	thumbURL="thumbs/E_bear_creek2.jpg"
+	linkURL="images/E_bear_creek2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

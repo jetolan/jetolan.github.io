@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- OPTIONS SUPPORTED BY STANDARD SWF -->
+<simpleviewergallery
+
+	title="Rivers"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbPosition="LEFT"
+	galleryStyle="MODERN"
+	thumbColumns="3"
+	thumbRows="4"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath="images/"
+	thumbPath="thumbs/"
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""
+	languageCode=""
+	languageList=""
+>
+	<image imageURL="images/boca.jpg" thumbURL="thumbs/boca.jpg" linkURL="" linkTarget="" >
+		<caption>boca.jpg</caption>
+	</image>
+	<image imageURL="images/carmel_river.jpg" thumbURL="thumbs/carmel_river.jpg" linkURL="" linkTarget="" >
+		<caption>carmel_river.jpg</caption>
+	</image>
+	<image imageURL="images/enchanted_valley_3.jpg" thumbURL="thumbs/enchanted_valley_3.jpg" linkURL="" linkTarget="" >
+		<caption>enchanted_valley_3.jpg</caption>
+	</image>
+	<image imageURL="images/evolution_steps.jpg" thumbURL="thumbs/evolution_steps.jpg" linkURL="" linkTarget="" >
+		<caption>evolution_steps.jpg</caption>
+	</image>
+	<image imageURL="images/fin_dome.jpg" thumbURL="thumbs/fin_dome.jpg" linkURL="" linkTarget="" >
+		<caption>fin_dome.jpg</caption>
+	</image>
+	<image imageURL="images/mono_creek.jpg" thumbURL="thumbs/mono_creek.jpg" linkURL="" linkTarget="" >
+		<caption>mono_creek.jpg</caption>
+	</image>
+	<image imageURL="images/rio chimeuin.jpg" thumbURL="thumbs/rio chimeuin.jpg" linkURL="" linkTarget="" >
+		<caption>rio chimeuin.jpg</caption>
+	</image>
+	<image imageURL="images/river.jpg" thumbURL="thumbs/river.jpg" linkURL="" linkTarget="" >
+		<caption>river.jpg</caption>
+	</image>
+	<image imageURL="images/warner_snow.jpg" thumbURL="thumbs/warner_snow.jpg" linkURL="" linkTarget="" >
+		<caption>warner_snow.jpg</caption>
+	</image>
+</simpleviewergallery>

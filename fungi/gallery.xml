@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	title="Mushrooms"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbPosition="LEFT"
+	galleryStyle="MODERN"
+	thumbColumns="3"
+	thumbRows="4"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath="images/"
+	thumbPath="thumbs/"
+	useFlickr="false"
+	languageCode=""
+	languageList=""
+	resizeOnImport="true"
+	cropToFit="false"
+
+>
+  <image imageURL="images/aerus.jpg"
+	thumbURL="thumbs/aerus.jpg"
+	linkURL="images/aerus.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[aerus.jpg]]></caption>
+  </image>
+  <image imageURL="images/amanita calyptrata.jpg"
+	thumbURL="thumbs/amanita calyptrata.jpg"
+	linkURL="images/amanita calyptrata.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[amanita calyptrata.jpg]]></caption>
+  </image>
+  <image imageURL="images/amanita_vaginata.jpg"
+	thumbURL="thumbs/amanita_vaginata.jpg"
+	linkURL="images/amanita_vaginata.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[amanita_vaginata.jpg]]></caption>
+  </image>
+  <image imageURL="images/boletus_edulis.jpg"
+	thumbURL="thumbs/boletus_edulis.jpg"
+	linkURL="images/boletus_edulis.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[boletus_edulis.jpg]]></caption>
+  </image>
+  <image imageURL="images/butter.jpg"
+	thumbURL="thumbs/butter.jpg"
+	linkURL="images/butter.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[butter.jpg]]></caption>
+  </image>
+  <image imageURL="images/calyptrara_09.jpg"
+	thumbURL="thumbs/calyptrara_09.jpg"
+	linkURL="images/calyptrara_09.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[calyptrara_09.jpg]]></caption>
+  </image>
+  <image imageURL="images/chantrelles_upturned.jpg"
+	thumbURL="thumbs/chantrelles_upturned.jpg"
+	linkURL="images/chantrelles_upturned.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[chantrelles_upturned.jpg]]></caption>
+  </image>
+  <image imageURL="images/cibarus.jpg"
+	thumbURL="thumbs/cibarus.jpg"
+	linkURL="images/cibarus.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[cibarus.jpg]]></caption>
+  </image>
+  <image imageURL="images/edulis.jpg"
+	thumbURL="thumbs/edulis.jpg"
+	linkURL="images/edulis.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[edulis.jpg]]></caption>
+  </image>
+  <image imageURL="images/edulis_09.jpg"
+	thumbURL="thumbs/edulis_09.jpg"
+	linkURL="images/edulis_09.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[edulis_09.jpg]]></caption>
+  </image>
+  <image imageURL="images/erythropus.jpg"
+	thumbURL="thumbs/erythropus.jpg"
+	linkURL="images/erythropus.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[erythropus.jpg]]></caption>
+  </image>
+  <image imageURL="images/hedgehog.jpg"
+	thumbURL="thumbs/hedgehog.jpg"
+	linkURL="images/hedgehog.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[hedgehog.jpg]]></caption>
+  </image>
+  <image imageURL="images/hygrocybes.jpg"
+	thumbURL="thumbs/hygrocybes.jpg"
+	linkURL="images/hygrocybes.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[hygrocybes.jpg]]></caption>
+  </image>
+  <image imageURL="images/queens_butters.jpg"
+	thumbURL="thumbs/queens_butters.jpg"
+	linkURL="images/queens_butters.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[queens_butters.jpg]]></caption>
+  </image>
+  <image imageURL="images/rachodes.jpg"
+	thumbURL="thumbs/rachodes.jpg"
+	linkURL="images/rachodes.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[rachodes.jpg]]></caption>
+  </image>
+  <image imageURL="images/satanas.jpg"
+	thumbURL="thumbs/satanas.jpg"
+	linkURL="images/satanas.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[satanas.jpg]]></caption>
+  </image>
+  <image imageURL="images/bolete.jpg"
+	thumbURL="thumbs/bolete.jpg"
+	linkURL="images/bolete.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

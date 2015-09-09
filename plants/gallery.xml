@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	title="Plants"
+	textColor="FFFFFF"
+	frameColor="474747"
+	thumbPosition="LEFT"
+	galleryStyle="MODERN"
+	thumbColumns="3"
+	thumbRows="4"
+	showOpenButton="true"
+	showFullscreenButton="true"
+	frameWidth="20"
+	maxImageWidth="800"
+	maxImageHeight="800"
+	imagePath="images/"
+	thumbPath="thumbs/"
+	useFlickr="false"
+	languageCode=""
+	languageList=""
+	resizeOnImport="true"
+	cropToFit="false"
+
+>
+  <image imageURL="images/apricot.jpg"
+	thumbURL="thumbs/apricot.jpg"
+	linkURL="images/apricot.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[apricot.jpg]]></caption>
+  </image>
+  <image imageURL="images/aspen.jpg"
+	thumbURL="thumbs/aspen.jpg"
+	linkURL="images/aspen.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[aspen.jpg]]></caption>
+  </image>
+  <image imageURL="images/aspen_light.jpg"
+	thumbURL="thumbs/aspen_light.jpg"
+	linkURL="images/aspen_light.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[aspen_light.jpg]]></caption>
+  </image>
+  <image imageURL="images/aspen_river.jpg"
+	thumbURL="thumbs/aspen_river.jpg"
+	linkURL="images/aspen_river.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[aspen_river.jpg]]></caption>
+  </image>
+  <image imageURL="images/columbine.jpg"
+	thumbURL="thumbs/columbine.jpg"
+	linkURL="images/columbine.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[columbine.jpg]]></caption>
+  </image>
+  <image imageURL="images/cottonwood.jpg"
+	thumbURL="thumbs/cottonwood.jpg"
+	linkURL="images/cottonwood.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[cottonwood.jpg]]></caption>
+  </image>
+  <image imageURL="images/epi.jpg"
+	thumbURL="thumbs/epi.jpg"
+	linkURL="images/epi.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[epi.jpg]]></caption>
+  </image>
+  <image imageURL="images/evolution_meadow.jpg"
+	thumbURL="thumbs/evolution_meadow.jpg"
+	linkURL="images/evolution_meadow.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[evolution_meadow.jpg]]></caption>
+  </image>
+  <image imageURL="images/fern_light.jpg"
+	thumbURL="thumbs/fern_light.jpg"
+	linkURL="images/fern_light.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[fern_light.jpg]]></caption>
+  </image>
+  <image imageURL="images/flower.jpg"
+	thumbURL="thumbs/flower.jpg"
+	linkURL="images/flower.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[flower.jpg]]></caption>
+  </image>
+  <image imageURL="images/flowers.jpg"
+	thumbURL="thumbs/flowers.jpg"
+	linkURL="images/flowers.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[flowers.jpg]]></caption>
+  </image>
+  <image imageURL="images/hidden_lake_lookoutflowers.jpg"
+	thumbURL="thumbs/hidden_lake_lookoutflowers.jpg"
+	linkURL="images/hidden_lake_lookoutflowers.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[hidden_lake_lookoutflowers.jpg]]></caption>
+  </image>
+  <image imageURL="images/juniper_river.jpg"
+	thumbURL="thumbs/juniper_river.jpg"
+	linkURL="images/juniper_river.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[juniper_river.jpg]]></caption>
+  </image>
+  <image imageURL="images/marina_flowers.jpg"
+	thumbURL="thumbs/marina_flowers.jpg"
+	linkURL="images/marina_flowers.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[marina_flowers.jpg]]></caption>
+  </image>
+  <image imageURL="images/moss.jpg"
+	thumbURL="thumbs/moss.jpg"
+	linkURL="images/moss.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[moss.jpg]]></caption>
+  </image>
+  <image imageURL="images/oak_henry_coe.jpg"
+	thumbURL="thumbs/oak_henry_coe.jpg"
+	linkURL="images/oak_henry_coe.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[oak_henry_coe.jpg]]></caption>
+  </image>
+  <image imageURL="images/orchid.jpg"
+	thumbURL="thumbs/orchid.jpg"
+	linkURL="images/orchid.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[orchid.jpg]]></caption>
+  </image>
+  <image imageURL="images/poppy.jpg"
+	thumbURL="thumbs/poppy.jpg"
+	linkURL="images/poppy.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[poppy.jpg]]></caption>
+  </image>
+  <image imageURL="images/purple_flower.jpg"
+	thumbURL="thumbs/purple_flower.jpg"
+	linkURL="images/purple_flower.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[purple_flower.jpg]]></caption>
+  </image>
+  <image imageURL="images/saprophyte.jpg"
+	thumbURL="thumbs/saprophyte.jpg"
+	linkURL="images/saprophyte.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[saprophyte.jpg]]></caption>
+  </image>
+  <image imageURL="images/tiger_light.jpg"
+	thumbURL="thumbs/tiger_light.jpg"
+	linkURL="images/tiger_light.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[tiger_light.jpg]]></caption>
+  </image>
+  <image imageURL="images/tiger_lily.jpg"
+	thumbURL="thumbs/tiger_lily.jpg"
+	linkURL="images/tiger_lily.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[tiger_lily.jpg]]></caption>
+  </image>
+  <image imageURL="images/tree.jpg"
+	thumbURL="thumbs/tree.jpg"
+	linkURL="images/tree.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[tree.jpg]]></caption>
+  </image>
+  <image imageURL="images/trillium.jpg"
+	thumbURL="thumbs/trillium.jpg"
+	linkURL="images/trillium.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[trillium.jpg]]></caption>
+  </image>
+  <image imageURL="images/yellow_flowers.jpg"
+	thumbURL="thumbs/yellow_flowers.jpg"
+	linkURL="images/yellow_flowers.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[yellow_flowers.jpg]]></caption>
+  </image>
+  <image imageURL="images/tree_sandstone.jpg"
+	thumbURL="thumbs/tree_sandstone.jpg"
+	linkURL="images/tree_sandstone.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/purple_flower.jpg"
+	thumbURL="thumbs/purple_flower.jpg"
+	linkURL="images/purple_flower.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

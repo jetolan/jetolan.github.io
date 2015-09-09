@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html;charset=ISO-8859-1" http-equiv="Content-Type">
+  <title>Physics</title>
+</head>
+<body style="background-color: rgb(128, 128, 128); color: rgb(0, 0, 0);"
+ alink="#ee0000" link="#0000ee" vlink="#551a8b">
+<br>
+
+<p>
+
+<table border="0" cellspacing="0" cellpadding="10" width=500>
+<tr>
+<td>
+<hr>
+<span style="color:rgb(255, 255, 255);font-family:helvetica;font-size:14pt">
+<li>I am currently a physics graduate student at Stanford University,
+pursuing a Ph. D. in Physics, specifically, Observational Cosmology<br>
+<p>
+<a href="physics/cv.pdf"> CV</a>
+<p>
+<a href="physics/research.pdf"> Research Statement </a>
+<p>
+<hr>
+</td>
+</tr>
+</table>
+
+<p>
+<p>
+<center>
+<img src="physics/keck_title.png" width=700>
+<br>
+<img src="physics/all.gif" width=500>
+</center>
+<center>
+<table border="0" cellspacing="0" cellpadding="10" width=70%>
+<tr>
+<td>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+My primary research goal is to measure the CMB polarization, witch the hope of detecting what is know as the "B-mode" signal in the pattern of polarization vectors on the sky. We have fielded a microwave polarimeter known as the Keck Array at the South Pole. To the left you can see an image of the Temperature anisotropies in the CMB taken in ~40hrs during the 2012 season.<br>
+<p>
+For more information, you can look through a <a href="physics/SCAR_tolan.pdf">talk about the Keck Array</a> I recently gave.<br>
+<p>
+</td>
+
+<td><table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+<img alt="cmbT" src="physics/cmb2012_less_contrast.png" width=400>
+
+<p>
+<small style="font-style: italic;"><small><span style="color: rgb(255, 255, 255);"> CMB Temperature with the Keck Array</span></small></small><p>
+</span>
+
+</td></tr></table>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+The Keck Array deployed to the South Pole in November 2010, and achieved first light in February 2011.
+<p>
+
+
+<p>
+</td>
+
+<td><table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+<img alt="cmbT" src="physics/5keck.png" width=250>
+
+<p>
+<small style="font-style: italic;"><small><span style="color: rgb(255, 255, 255);"> The Keck Array at the South Pole</span></small></small><p>
+</span>
+
+</td></tr></table>
+</td>
+</tr>
+
+<tr>
+<td>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+A map of polarized sky can be decomposed into two components: one with gradient and no curl, the "E-modes," and one with curl and no gradient, the "B-modes." On a sphere, this decomposition is complete, however in a cut sky map, we must be carefully handle "ambiguous modes," which occur because of the boundary conditions. These ambiguous modes are also created by data processing artifacts in the maps that all real experiments create. One the left you can see a selection of the largest eigenvalue modes of "E-modes" for a small patch of sky. 
+<p>
+
+
+<p>
+</td>
+
+<td><table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+
+<object classid="clsid:1" width="400"height="300"
+codebase="http://www.apple.com/qtactivex/qtplugin.cab">
+   <param name="src" value="physics/JPEG.mov">
+   <param name="autoplay" value="true">
+   <param name="controller" value="true">
+   <embed src="physics/JPEG.mov" width="400" height="320" autoplay="true" controller="true" pluginspage="http://www.apple.com/quicktime/download/">
+   </embed>
+</object>
+
+
+<p>
+<small style="font-style: italic;"><small><span style="color: rgb(255, 255, 255);"> Pure-E modes in a cut sky</span></small></small><p>
+</span>
+
+</td></tr></table>
+</td>
+</tr>
+
+<tr>
+<td>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+Astrophysical foregrounds, in the form of galactic synchrotron, thermal dust, and compact radio sources, contaminate our measurements of the primordial CMB. We use multifrequency observations and target regions of the sky low in foreground power. 
+<p>
+<p>
+</td>
+<td><table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+<img alt="cmbT" src="physics/foreground.gif" width=250>
+
+<p>
+<small style="font-style: italic;"><small><span style="color: rgb(255, 255, 255);"> Avoiding Foregrounds</span></small></small><p>
+</span>
+
+</td></tr></table>
+</td>
+
+</tr>
+
+
+</td>
+</tr>
+</table>
+</center>
+
+<table border="0" cellspacing="0" cellpadding="10" width=70%>
+<tr>
+<td>
+<p>
+<hr>
+<p>
+<span style="font-style: italic;font-family:helvetica"><u>Collaboration Public Pages</u></span>
+<p>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+<a href="http://kipac.stanford.edu/kipac/projects/cmb_projects">Stanford</a>
+<p>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+<a href="http://www.cfa.harvard.edu/CMB/keckarray/">Harvard</a>
+<p>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+<a href="http://www.astro.caltech.edu/~lgg/keck/keck_front">Caltech</a>
+<p>
+
+</tr>
+</td>
+</table>
+
+
+<table border="0" cellspacing="0" cellpadding="10" width=70%>
+<tr>
+<td>
+<p>
+<hr>
+<p>
+<span style="font-style: italic;font-family:helvetica"><u>Refereed Publications</u></span>
+<p>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+"Measurement of CMB Polarization Power Spectra from Two Years of BICEP Data" 2009. Chiang et al. <a href="http://arxiv.org/abs/0906.1181">arXiv:0906.1181</a>
+</span>
+<p>
+<span style="font-style: italic;font-family:helvetica"><u>Conference Proceedings</u></span>
+<p>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+"BICEP2 and Keck Array operational overview and status of observations" 2012. R. W. Ogburn IV et al. <a href="http://arxiv.org/abs/1208.0638">arXiv:1208.0638</a>
+<p>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+"Optical Characterization of the Keck Array Polarimeter at the South Pole" 2012. A. G. Vieregg et al. <a href="http://arxiv.org/abs/1208.0844">arXiv:1208.0844</a>
+<p>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+"Optimization and sensitivity of the Keck Array" 2012. S. Kernasovskiy et al. <a href="http://arxiv.org/abs/1208.0857">arXiv:1208.0857</a>
+<p>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+"Antenna-coupled TES bolometers for the Keck Array, Spider, and Polar-1" 2012. R. O\'Brient et al. <a href="http://arxiv.org/abs/1208.1247">arXiv:1208.1247</a>
+<p>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+"Noise Performance of the BICEP2 antenna-coupled TES bolometers at the South Pole" 2011. J. Brevik
+et al.
+<p>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+"The Keck Array: a pulse tube cooled CMB polarimeter" 2010. C. Sheehy et al. <a href="http://arxiv.org/abs/1104.5516">arXiv:1104.5516v1</a>
+<p>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+"Optical Performance of the BICEP2 Telescope at the South Pole" 2010. R. Akin et al.
+<p>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+"Initial performance of the BICEP2 antenna-coupled superconducting bolometers at the South Pole" 2010. J. Brevik et al. Proc. of SPIE Vol. 7741 77411H-1
+<p>
+<span style="color:rgb(0, 0, 0);font-family:helvetica;font-size:12pt">
+"The BICEP2 CMB polarization experiment" 2010. R. W. Ogburn IV et al. Proc. of SPIE Vol. 7741 77411G-1
+<p>
+
+
+</td>
+</tr>
+</table>
+
+
+<p>
+<center>
+<img src="physics/cmbT_strip2.png" width=100%>
+</center>
+
+<p>
+<hr>
+<p>
+During undergrad I worked on Solar Physics for a summer in a REU:
+<p><a href="http://solar.physics.montana.edu/reu/2005/jtolan/">My Montana State
+WebPage</a><br>
+
+<hr>
+</body>
+</html>
